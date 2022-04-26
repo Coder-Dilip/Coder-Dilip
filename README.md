@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h1 id="title" style="color:green">Dilip Pokhrel</h1>
+<style>
+  h1{
+  #title{
+  color:green;
+  }
+  }
+</style>
+<h1 id="title">Dilip Pokhrel</h1>
 
 
