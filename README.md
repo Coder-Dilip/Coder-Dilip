@@ -14,7 +14,9 @@
 <br>      
 <p><img align="right" height="470" width="550" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif" alt="adam-pw" /></p>
 <br>
-
+<p>
+<br>
+</p>
 - 🌱 I’m currently learning Data Science
 
 - 📫 How to reach me **designsdilip@gmail.com**
