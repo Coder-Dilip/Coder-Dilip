@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://dilipbackend.xyz/intro" target="blank"><img height="100" width="100"
       src="https://geteasymove.com/image/testimonials/1584547261_avatar.png" alt="" /></a> </p>
 <br>     
-- 🌱 I’m currently learning Data Science
+  <p> - 🌱 I’m currently learning Data Science</p>
 
 - 📫 How to reach me **designsdilip@gmail.com**
 
