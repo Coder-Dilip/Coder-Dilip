@@ -8,8 +8,10 @@
   </p> -->
 <br>
 <br>
-<br>
 
+<p align="left"> <a href="https://dilipbackend.xyz/intro" target="blank"><img height="100" width="100"
+      src="https://geteasymove.com/image/testimonials/1584547261_avatar.png" alt="" /></a> </p>
+<br>      
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
@@ -101,7 +103,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-dilip&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
       
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://geteasymove.com/image/testimonials/1584547261_avatar.png" alt="" /></a> </p>
+
 
 [coder-dilip](https://github.com/coder-dilip)
