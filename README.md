@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 id="title">Dilip Pokhrel</h1>
+<h1 id="title" style="color:green">Dilip Pokhrel</h1>
 
-<script>
-  document.getElementById("title").style.color="green"
-  </script>
+
