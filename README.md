@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://dilipbackend.xyz/intro" target="blank"><img height="100" width="100"
       src="https://geteasymove.com/image/testimonials/1584547261_avatar.png" alt="" /></a> </p>
 <br>      
-<p><img align="right" margin-left="100px" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif" alt="adam-pw" /></p>
+<p><img align="right" height="300" width="300" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif" alt="adam-pw" /></p>
 
 
 - 🌱 I’m currently learning Data Science
